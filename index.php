@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World! Deployoing php code to Azure";
+echo "Hello World! Deployoing php code to Azure.";
